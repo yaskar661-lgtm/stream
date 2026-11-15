@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:468359
+#EXT-X-DISCONTINUITY-SEQUENCE:4084
+#EXT-X-TARGETDURATION:10
+#EXTINF:6.000000, no desc
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/apara/apara_1080p-1794750800000_era.ts
+#EXT-X-DISCONTINUITY
+#EXT-X-PROGRAM-DATE-TIME:2026-11-15T13:53:26.000+00:00
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/apara/apara_1080p-1794750800000.ts
+#EXT-X-ENDLIST
