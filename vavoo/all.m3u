@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Vavoo
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/vavoo/vavoo_all.m3u
+#EXTINF:-1,Kool
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/vavoo/kool_all.m3u
+#EXTINF:-1,Geil
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/vavoo/geil_all.m3u
